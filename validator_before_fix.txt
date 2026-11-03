@@ -1,0 +1,5 @@
+FAILED:
+  - chatbot.py missing function: pre_response_pii_filter
+  - chatbot.py missing function: rate_limit_check
+  - chatbot.py missing function: write_audit_log_entry
+  - chatbot.py missing function: run_with_guardrails
